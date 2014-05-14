@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  background: lightblue;
+  text-align: center;
+  font-family: sans-serif
+}
+
+h2 {
+  font-size: medium;
+}
+
+ul {
+  list-style-position:inside;
+}
+
+li {
+  text-align: left;
+  margin: auto;
+  width: 60%;
+  font-size: large
+}
+
+li:hover {
+  color: red;
+  text-decoration: line-through;
+}
+
+h3 {
+  font-size: small
+}
